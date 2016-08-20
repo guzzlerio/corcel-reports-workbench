@@ -1,0 +1,24 @@
+{
+  "name": "corcel-reports-workbench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ci.guzzler.io:guzzler/corcel-reports-workbench.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inline-assets": "^0.1.1",
+    "gulp-inline-fonts": "^1.0.1",
+    "gulp-inline-source": "^3.0.0"
+  },
+  "dependencies": {
+    "gulp-inline-image-html": "^0.2.1"
+  }
+}

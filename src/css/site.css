@@ -1,0 +1,12 @@
+body { padding-top: 70px; padding-bottom: 70px; }
+
+img.logo {
+  width:40px;
+  margin-top:5px;
+  margin-right:10px;
+}
+
+.navbar *{
+  color:#ffffff;
+}
+
