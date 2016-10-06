@@ -1,5 +1,9 @@
 body { padding-top: 70px; padding-bottom: 70px; }
 
+footer {
+  margin-top:50px;
+}
+
 img.logo {
   width:40px;
   margin-top:5px;
@@ -8,6 +12,10 @@ img.logo {
 
 .navbar *{
   color:#ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", 'Arial Narrow', Arial, sans-serif;
 }
 
 .stat-label{
@@ -21,5 +29,9 @@ img.logo {
   font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", 'Arial Narrow', Arial, sans-serif;
   font-weight: bold;
   font-size:3.5em;
+  color: #BE1218;
 }
 
+.graph{
+  margin:1em;
+}
