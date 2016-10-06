@@ -10,3 +10,16 @@ img.logo {
   color:#ffffff;
 }
 
+.stat-label{
+  font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size:1.5em;
+  margin-bottom:-0.7em;
+  color:gray;
+}
+.stat-value{
+  font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size:3.5em;
+}
+
